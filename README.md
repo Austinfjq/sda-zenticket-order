@@ -1,1 +1,1 @@
-# SDA ZenTicket Order Microservice
+# SDA ZenTicket Event Microservice
